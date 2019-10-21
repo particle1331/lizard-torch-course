@@ -16,4 +16,4 @@ These are notebooks I wrote following the course [__Neural Network Programming -
 
 
 Appendix
-* [TensorBoard in Google Colab](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/Running%20TensorBoard%20in%20Colab%20%2B%20GPU.ipynb)
+* [TensorBoard in Google Colab](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/Running-TensorBoard-Colab-GPU.ipynb)
