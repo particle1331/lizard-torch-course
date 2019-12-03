@@ -11,9 +11,10 @@ These are notebooks I wrote following the course [__Neural Network Programming -
 * [4. Object Oriented Neural Networks, CNN](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/4-Object-Oriented-Neural-Networks-CNN.ipynb)
 * [5. Training the CNN](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/5-Training-the-CNN.ipynb)
 * [6. TensorBoard, Hyperparameter Tuning](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/6-TensorBoard-for-Visualization-and-Hyperparameter-Tuning.ipynb)
-* [7. Confusion Matrix for Classification](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/7-Confusion-Matrix-for-Classification.ipynb)
 
 
 
 Appendix
 * [TensorBoard in Google Colab](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/Running-TensorBoard-Colab-GPU.ipynb)
+* [Confusion Matrix for Classification](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/7-Confusion-Matrix-for-Classification.ipynb)
+
